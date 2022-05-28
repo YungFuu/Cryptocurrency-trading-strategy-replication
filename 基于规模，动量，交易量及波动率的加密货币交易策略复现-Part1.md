@@ -157,7 +157,7 @@ df_total.to_csv(path+os.sep+'df_total01.csv',encoding = 'utf_8_sig')
 
 至此，df_total就记录了所有加密货币从起始日至终止日的价格，市值以及交易量数据，总共包含4,329,182行数据，6列字段，存储结构如下：
 
-![image](https://user-images.githubusercontent.com/93023212/170834074-eb4a6417-3ec1-4957-927f-68bbd0bd1244.png)
+![image](https://user-images.githubusercontent.com/93023212/170834142-14d8ae54-548d-4b58-a8b5-bec2c798beb8.png)
 
 如果要跑完整个代码，可能需要一整天的时间，因此我将所有加密货币分成三等分，通过与小组成员合作，分别用三部电脑获取数据，再合并到一起，记为all_data，这将节省大量时间。
 
