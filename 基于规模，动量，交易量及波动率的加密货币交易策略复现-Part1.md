@@ -214,7 +214,7 @@ new_all_data = new_all_data.replace(0,np.nan).dropna()
 
 计算加密货币周收益率的方法如下：
 
-![image](https://user-images.githubusercontent.com/93023212/170834055-3b224a6f-834b-4199-bf3c-e3b91e797767.png)
+![image](https://user-images.githubusercontent.com/93023212/170850444-cda8b63e-543f-4ca8-9207-eb9d5b33b0c1.png)
 
 因子的计算方法请参看前文中对因子的介绍，具体代码实现路径如下：
 
