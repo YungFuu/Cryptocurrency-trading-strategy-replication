@@ -4,7 +4,7 @@
 
 你可以Google文章名或通过以下链接查阅该论文：LIU, Y., TSYVINSKI, A. and WU, X. (2022), Common Risk Factors in Cryptocurrency. The Journal of Finance, 77: 1133-1177. [Common Risk Factors in Cryptocurrency - LIU - 2022 - The Journal of Finance - Wiley Online Library](https://doi.org/10.1111/jofi.13119)
 
-本期技术博客将分为三个部分来写，第一部分为获取数据，数据清洗与处理工作，第二部分将介绍如何实现交易策略制定，策略执行，回测模型搭建，第三部分将运用加密货币单因子模型， 对策略所带来的超额收益进行估计。
+本期技术博客将分为两个部分来写，第一部分为获取数据，数据清洗与处理工作，第二部分将介绍如何实现交易策略制定，策略执行，回测模型搭建，并运用加密货币单因子模型，对策略所带来的超额收益进行估计。
 
 # 关于论文
 
@@ -305,7 +305,7 @@ Index(['Unnamed: 0', 'week', 'all_crypto_mcap', 'all_crypto_mcap_lag1', 'Rm',
       dtype='object')
 ```
 
-后续内容，敬请期待技术博客的第二部分和第三部分。
+后续内容，敬请期待技术博客的第二部分。
 
 
 
