@@ -6,8 +6,7 @@
 https://onlinelibrary.wiley.com/doi/epdf/10.1111/jofi.13119
 
 详细的技术博客请参考：
-Part1 调用数据api，数据清洗与处理.md
-Part2 回测模型与策略验证.md
+Part1 调用数据api，数据清洗与处理.md 以及 Part2 回测模型与策略验证.md
 
 代码文件请参考：
 MFIN7037_Final.py
